@@ -25,6 +25,7 @@
             flask
             flask-sqlalchemy
             flask-login
+            flask-wtf
           ];
       in {
         default =
